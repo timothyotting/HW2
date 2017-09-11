@@ -1,1 +1,1 @@
-# HW2
+This homework assignment will give details about Cam Otting.
